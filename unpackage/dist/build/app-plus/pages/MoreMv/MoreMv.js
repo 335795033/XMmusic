@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"uni-list { width: 95%; margin: 0 auto; }\n.",[1],"uni-list .",[1],"uni-list-cell { width: 100%; }\n.",[1],"uni-list .",[1],"uni-list-cell wx-image { width: 100%; -webkit-box-shadow: 1px 1px ",[0,5]," #ccc; box-shadow: 1px 1px ",[0,5]," #ccc; }\n.",[1],"uni-media-list-text-top { font-size: .8rem; padding: 0 0 .5rem 0; }\n",],undefined,{path:"./pages/MoreMv/MoreMv.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/MoreMv/MoreMv.wxml') } }));
